@@ -1,4 +1,4 @@
-# clipgrab
+# ClipGrab-macOS
 
 Github sucks that can't upload more than 100 files. therefore, there is no source code.
 You can download at [here](https://download.clipgrab.org/clipgrab-3.9.10.tar.gz) instead.
