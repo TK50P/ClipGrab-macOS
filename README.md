@@ -24,6 +24,19 @@ You need to install the Qt5 developer libraries in order to compile the program.
 brew install qt@5
 ```
 
+## Set env
+
+For Intel Macs, set this as Environment.
+```sh
+export PATH="/usr/local/opt/qt@5/bin:$PATH"
+```
+
+For Apple Silicon Macs, set this as Environment.
+
+```sh
+export PATH="/opt/homebrew/opt/qt@5/bin:$PATH"
+```
+
 ### Compiling
 
 To compile ClipGrab, simply execute the following command:
@@ -32,4 +45,4 @@ To compile ClipGrab, simply execute the following command:
 qmake clipgrab.pro && make
 ```
 
-This will create an executable "clipgrab" that you can start via `./clipgrab`.
+This will create an executable "clipgrab".
