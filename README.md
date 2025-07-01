@@ -1,5 +1,8 @@
 # clipgrab
 
+Github sucks that can't upload more than 100 files. therefore, there is no source code.
+You can download at [here](https://download.clipgrab.org/clipgrab-3.9.10.tar.gz) instead.
+
 Slightly customized version of ClipGrab for macOS (http://clipgrab.org/)
 
 ClipGrab is a GUI frontend for [youtube-dl](https://youtube-dl.org).
